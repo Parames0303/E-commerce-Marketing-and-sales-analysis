@@ -29,7 +29,7 @@ Tax_Amount.csv (product-level tax details)
 Here is the analysis result visualization on the aquisition rate
 ### 📈 Monthly Customer Acquisition
 
-![Monthly Customer Acquisition](plots/monthly customer aquisition.png)
+![Monthly Customer Acquisition](plots/monthly%20customer%20aquisition.png)
 
 Highest acquisition: January (215 new customers)
 
