@@ -112,6 +112,8 @@ Insight: Online spend shows stronger correlation with revenue.
 Strategy: Emphasize digital channels. Use attribution models to refine future campaigns.
 
 10. 🧱 Customer Segmentation with RFM
+    
+![Total Revenue by Customer Segment](plots/Total_revenue_by_customer_segment.png)
 
 Segments: Premium, Gold, Silver, Standard based on Recency, Frequency, Monetary score.
 
@@ -129,6 +131,8 @@ Strategy: Focus retention on Premium/Gold and run reactivation campaigns for Sil
 
 12. ⏳ Cohort-Based Retention
 
+![Monthly retention rate by Cohort](plots/Monthly_Retention_Rate_by_cohort.png)
+
 Early cohorts (Jan–Mar) showed stronger long-term retention.
 
 Later cohorts (Jul–Sep) dropped off faster.
@@ -136,6 +140,8 @@ Later cohorts (Jul–Sep) dropped off faster.
 Strategy: Improve onboarding + early engagement for new cohorts.
 
 13. 🧮 Customer Lifetime Value (CLTV) by Acquisition Month
+
+![Customer LTV Over Time by Acquisition month](plots/Customer_LTV_Over_Time_by_Acquisition_month.png)
 
 CLTV highest for Jan and Oct cohorts.
 
@@ -169,6 +175,8 @@ Recommendation: Reward long-term loyalty with exclusive offers and early access.
 
 17. 🚚 Delivery Charges vs Order Behavior
 
+![Monthly Retention Rate by Cohort](plots/Monthly_Retention_Rate_by_cohort.png)
+
 Higher delivery charges slightly reduce order size/frequency.
 
 Insight: Customers react to high delivery fees.
@@ -177,17 +185,23 @@ Strategy: Offer free shipping threshold or discounted delivery during off-peak.
 
 18. 🧾 Taxes & Delivery Impact on Spending
 
+![Delivery Charges Vs Order Behaviour](plots/Delivery_Charges_Vs_Order_Behaviour.png)
+
 High tax categories had slightly lower purchase volumes.
 
 Strategy: Adjust pricing bundles to absorb tax or delivery during price-sensitive periods.
 
 19. 📅 Seasonal Sales by Category & Location
 
+![Monthly Revenue Catergory wise](plots/Monthly_Revenue_Catergory_wise.png)
+
 Seasonal peaks observed in categories like Fashion and Electronics.
 
 Strategy: Align stock and campaigns with expected seasonal surges.
 
 20. 📆 Daily Sales Trends
+
+![Average Revenue Day of Week](plots/Average_Revenue_Day_of_Week.png.png)
 
 Consistent lows on Mondays and highs on weekends.
 
