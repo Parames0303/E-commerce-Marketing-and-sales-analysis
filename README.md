@@ -95,6 +95,8 @@ Promo Strategy: Bundle top items, pair with coupons in slow months
 
 8. 📈 Marketing Spend vs Revenue
 
+![Monthly Revenue Vs Marketing Spend](plots/Monthly_Revenue_Vs_Marketing_Spend.png)
+
 Some months (e.g., January and October) show high ROI from marketing.
 
 Other months (e.g., April, June) show lower return despite similar spend.
