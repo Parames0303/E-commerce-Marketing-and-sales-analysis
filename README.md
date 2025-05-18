@@ -201,7 +201,7 @@ Strategy: Align stock and campaigns with expected seasonal surges.
 
 20. 📆 Daily Sales Trends
 
-![Average Revenue Day of Week](plots/Average_Revenue_Day_of_Week.png.png)
+![Average Revenue Day of Week](plots/Average_Revenue_Day_of_Week.png)
 
 Consistent lows on Mondays and highs on weekends.
 
