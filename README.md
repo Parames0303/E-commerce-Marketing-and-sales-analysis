@@ -72,7 +72,8 @@ Existing customers dominate Apr–Dec
 Insight: Retention is strong; acquisition efforts needed in mid-to-late year.
 
 6. 💸 Coupon Usage vs Revenue Impact
-
+   
+![Average Order value for Coupon and Noncoupon customers](plots/Coupon_Vs_NonCoupon_Average_order_value.png)
 Coupon Users: 17,904 | Non-Coupon Users: 35,020
 
 P-value = 0.304 → No significant difference in AOV
