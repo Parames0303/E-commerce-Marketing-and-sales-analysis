@@ -4,6 +4,8 @@ E-commerce Marketing and Sales Analysis
 
 The e-commerce company aims to leverage data-driven insights to enhance customer acquisition, retention, and revenue optimization. This analysis explores key business questions using transaction, customer, coupon, marketing, and tax data from the year 2019. It applies exploratory data analysis (EDA), statistical methods, and business logic to generate actionable recommendations.
 
+Dataset file: https://github.com/Parames0303/E-commerce-Marketing-and-sales-analysis/blob/main/DAV%20Business%20case-20250508-Data
+
 📊 Dataset Summary
 
 Period Covered: Jan 1, 2019 – Dec 31, 2019
