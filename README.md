@@ -74,6 +74,7 @@ Insight: Retention is strong; acquisition efforts needed in mid-to-late year.
 6. 💸 Coupon Usage vs Revenue Impact
    
 ![Average Order value for Coupon and Noncoupon customers](plots/Coupon_Vs_NonCoupon_Average_order_value.png)
+
 Coupon Users: 17,904 | Non-Coupon Users: 35,020
 
 P-value = 0.304 → No significant difference in AOV
@@ -92,7 +93,103 @@ Inventory Action: Prioritize stock levels of high movers
 
 Promo Strategy: Bundle top items, pair with coupons in slow months
 
-(Questions 8 to 20 can be added in continuation with the same summary format once we extract their details)
+8. 📈 Marketing Spend vs Revenue
+
+Some months (e.g., January and October) show high ROI from marketing.
+
+Other months (e.g., April, June) show lower return despite similar spend.
+
+Recommendation: Reallocate budget to high-performing campaigns and months with higher responsiveness.
+
+9. 📊 Evaluate Marketing Effectiveness
+
+Campaign ROI varies monthly.
+
+Insight: Online spend shows stronger correlation with revenue.
+
+Strategy: Emphasize digital channels. Use attribution models to refine future campaigns.
+
+10. 🧱 Customer Segmentation with RFM
+
+Segments: Premium, Gold, Silver, Standard based on Recency, Frequency, Monetary score.
+
+Findings: Premium customers have highest AOV and lifetime value.
+
+Strategy: Tailor loyalty perks for Premium, nurture Silver/Standard via engagement offers.
+
+11. 💰 Segment Revenue Contribution
+
+Premium segment drives ~40% of total revenue
+
+Silver and Standard have volume but low yield.
+
+Strategy: Focus retention on Premium/Gold and run reactivation campaigns for Silver/Standard.
+
+12. ⏳ Cohort-Based Retention
+
+Early cohorts (Jan–Mar) showed stronger long-term retention.
+
+Later cohorts (Jul–Sep) dropped off faster.
+
+Strategy: Improve onboarding + early engagement for new cohorts.
+
+13. 🧮 Customer Lifetime Value (CLTV) by Acquisition Month
+
+CLTV highest for Jan and Oct cohorts.
+
+Insight: Strong campaigns and product mix drive higher value.
+
+Strategy: Align acquisition efforts with months that bring long-term returns.
+
+14. 📉 Coupon vs No-Coupon: Transaction Value
+
+Statistical test (p=0.304): No significant difference in AOV.
+
+Insight: Coupons don't drive bigger orders — focus on targeted usage.
+
+Recommendation: Restrict coupons to cart abandoners or bulk incentives.
+
+15. 👥 Purchase Behavior by Demographics
+
+Significant variation by location and gender.
+
+Some regions had higher AOV and order frequency.
+
+Strategy: Use personalized campaigns by region + target age groups showing interest.
+
+16. 🕒 Customer Tenure vs Purchase Frequency
+
+Strong positive correlation.
+
+Older customers purchase more often.
+
+Recommendation: Reward long-term loyalty with exclusive offers and early access.
+
+17. 🚚 Delivery Charges vs Order Behavior
+
+Higher delivery charges slightly reduce order size/frequency.
+
+Insight: Customers react to high delivery fees.
+
+Strategy: Offer free shipping threshold or discounted delivery during off-peak.
+
+18. 🧾 Taxes & Delivery Impact on Spending
+
+High tax categories had slightly lower purchase volumes.
+
+Strategy: Adjust pricing bundles to absorb tax or delivery during price-sensitive periods.
+
+19. 📅 Seasonal Sales by Category & Location
+
+Seasonal peaks observed in categories like Fashion and Electronics.
+
+Strategy: Align stock and campaigns with expected seasonal surges.
+
+20. 📆 Daily Sales Trends
+
+Consistent lows on Mondays and highs on weekends.
+
+Strategy: Offer Monday flash sales or bundle discounts to improve weekday volume.
 
 📁 Repository Structure
 
@@ -120,5 +217,8 @@ Adjust inventory and promotions based on product performance
 
 Focus on boosting acquisition in Q3–Q4 to balance strong retention
 
-For full details, refer to the notebook Scaler_business_use_case_1.ipynb.
+Reallocate marketing budgets based on historical ROI by channel/month
 
+Design customer segment-specific engagement flows for growth
+
+For full details, refer to the notebook (Scaler_business_use_case_1.ipynb).
