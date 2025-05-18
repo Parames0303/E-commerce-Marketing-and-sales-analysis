@@ -195,9 +195,13 @@ Strategy: Offer Monday flash sales or bundle discounts to improve weekday volume
 
 📦 E-commerce-Marketing-Case
 ├── Scaler_business_use_case_1.ipynb        # Full code and analysis
+
 ├── README.md                               # Problem summary + insights (this file)
+
 ├── plots/                                  # Visuals exported from notebook (optional)
+
 ├── data/                                   # Original datasets
+
 
 📌 Tools Used
 
@@ -221,4 +225,4 @@ Reallocate marketing budgets based on historical ROI by channel/month
 
 Design customer segment-specific engagement flows for growth
 
-For full details, refer to the notebook (Scaler_business_use_case_1.ipynb).
+For full details, refer to the notebook !(Scaler_business_use_case_1.ipynb).
