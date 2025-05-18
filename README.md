@@ -27,7 +27,9 @@ Tax_Amount.csv (product-level tax details)
 1. 🔺 Identify the months with highest and lowest acquisition rates
 
 Here is the analysis result visualization on the aquisition rate
-![Monthly Customer Acquisition](plots/monthly_acquisition.png)
+### 📈 Monthly Customer Acquisition
+
+![Monthly Customer Acquisition](plots/monthly customer aquisition.png)
 
 Highest acquisition: January (215 new customers)
 
