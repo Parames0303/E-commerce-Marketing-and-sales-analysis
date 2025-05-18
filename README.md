@@ -63,6 +63,8 @@ Strategy: Trigger-based repurchase offers, sequenced campaigns, and loyalty prog
 
 5. 👥 New vs Existing Customer Revenue
 
+![Monthly Revenue New Vs Existing Customers](plots/Monthly_revenue_New_Vs_Existingcustomers.png)
+
 New customers dominate Jan–Mar
 
 Existing customers dominate Apr–Dec
