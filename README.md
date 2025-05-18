@@ -242,4 +242,4 @@ Reallocate marketing budgets based on historical ROI by channel/month
 
 Design customer segment-specific engagement flows for growth
 
-For full details, refer to the notebook ![Scaler_business_use_case_1.ipynb](Scaler_business_use_case_1.ipynb).
+For full details, refer to the notebook ![Scaler_business_use_case_1.ipynb](/Scaler_business_use_case_1.ipynb).
